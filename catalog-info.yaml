@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: qwiklab
+  annotations:
+    github.com/project-slug: Azer2401/qwiklab
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
